@@ -19,4 +19,5 @@
   "mounts": [
     "type=volume,target=${containerWorkspaceFolder}/node_modules"
   ]
-}
+}"ghcr.io/customink/codespaces-features/sam-cli:1": {}
+
